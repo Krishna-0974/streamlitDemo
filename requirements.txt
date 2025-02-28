@@ -1,2 +1,1 @@
-%%writefile requirements.txt
-Used the streamlit module
+streamlit
